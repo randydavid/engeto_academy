@@ -2,4 +2,4 @@
 
 Toto je repository určené k odovzdaniu záverečných projektov Engeto datovej akademie
 
-discord name: david_54733
+discord username: david_54733
